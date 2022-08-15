@@ -1,4 +1,4 @@
-This is a typing game, titled: The Typing Game
+This is a typing game, titled: TypeMe
 
 The main file is titled "TP 2.py".
 
